@@ -76,7 +76,7 @@ select {
 }
 
 body {
-    background: var(--clr-gray-blue);
+    background: var(--clr-light-gray);
     font-size: 15px;
 }
 
