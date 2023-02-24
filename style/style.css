@@ -112,7 +112,7 @@ main {
 
 .card__header {
     padding: 1rem;
-    margin-bottom: 0.5rem;
+    margin-top: 0.3rem;
 }
 
 .card__content {
@@ -121,7 +121,7 @@ main {
 
 h1 {
     font-weight: 700;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     line-height: 1.2;
     color: var(--clr-dark-blue);
 }
